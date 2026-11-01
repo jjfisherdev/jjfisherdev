@@ -7,6 +7,6 @@ I find a real need and ship the whole thing, alone. Four products, all live:
 - **[Squeeze: The Estimation Duel](https://apps.apple.com/us/app/squeeze-the-estimation-duel/id6803632348)** (iOS): a pass-and-play estimation game for two players on one iPhone.
 - **[Yonmoku: 3D Four in a Row](https://apps.apple.com/us/app/yonmoku-3d-four-in-a-row/id6821935069)** (iOS): four in a row in three dimensions, for two people on one phone.
 
-Product source is private. The apps are published by JJ Fisher LLC; their support and privacy pages live at [@jjfisherdev](https://github.com/jjfisherdev).
+The source of my site is public: **[jamesshin.tech](https://github.com/jamesshintech/jamesshin.tech)** (Next.js, fully static, 29 Playwright tests in CI, a hash-pinned font fetch and a full-history secret scan). Product source is private. The apps are published by JJ Fisher LLC; their support and privacy pages live at [@jjfisherdev](https://github.com/jjfisherdev).
 
 [jamesshin.tech](https://jamesshin.tech) · [LinkedIn](https://www.linkedin.com/in/jamesshin2)
