@@ -1,12 +1,12 @@
 # James Shin
 
-I build things and ship them. Four products, all live:
+13 years in finance systems, from contract to ledger: order-to-cash, billing, the close and its controls. On the side, I build games and small apps. Four are live:
 
 - **[HighSchoolTrends.org](https://highschooltrends.org)**: rankings and up to twelve editions of trend data for 30,000+ US high schools.
 - **[Vitality Weeks](https://apps.apple.com/us/app/vitality-weeks/id6759621537)** (iOS): your life as a grid of weeks, with a weekly reflection and a Home Screen widget.
 - **[Squeeze: The Estimation Duel](https://apps.apple.com/us/app/squeeze-the-estimation-duel/id6803632348)** (iOS): a pass-and-play estimation game for two players on one iPhone.
 - **[Yonmoku: 3D Four in a Row](https://apps.apple.com/us/app/yonmoku-3d-four-in-a-row/id6821935069)** (iOS): four in a row in three dimensions, for two people on one phone.
 
-The source of my site is public: **[jamesshin.tech](https://github.com/jamesshintech/jamesshin.tech)** (Next.js, fully static, 30 Playwright tests in CI, a hash-pinned font fetch and a full-history secret scan). Product source is private. The apps are published by JJ Fisher LLC; their support and privacy pages live at [@jjfisherdev](https://github.com/jjfisherdev).
+The source of my site is public: **[jamesshin.tech](https://github.com/jamesshintech/jamesshin.tech)** (Next.js, fully static, a hand-written scroll engine, 31 Playwright tests in CI and a full-history secret scan). Product source is private. The apps are published by JJ Fisher LLC; their support and privacy pages live at [@jjfisherdev](https://github.com/jjfisherdev).
 
 [jamesshin.tech](https://jamesshin.tech) · [LinkedIn](https://www.linkedin.com/in/jamesshin2)
